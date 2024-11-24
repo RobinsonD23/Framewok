@@ -1,7 +1,12 @@
 
 public class Github {
-public static void main(String[] args) {
-	System.out.println("hello");
+    public void task1() {
+		System.out.println("task1");
+		
+	
+
+	
+	
 	
 }
 }
